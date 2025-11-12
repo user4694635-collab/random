@@ -1,0 +1,11 @@
+local m = require(game:GetService("Players").LocalPlayer.Backpack.G18.Setting)
+m["Auto"] = true
+m["BaseDamage"] = 10
+m["Range"] = 1000000
+m["FireRate"] = 0.15
+m["AmmoPerMag"] = math.huge
+m["Ammo"] = math.huge
+m["MaxAmmo"] = math.huge
+m["BulletSpeed"] = 10000
+m["HitEffectEnabled"] = false
+m["ExplosionSoundEnabled"] = false
